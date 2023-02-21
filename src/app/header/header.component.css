@@ -1,0 +1,56 @@
+nav{
+    background-color: rgba(247, 247, 247, 0.767);
+    padding: 15px;
+}
+nav img{
+    width: 50px;
+    margin-left: 140px ;
+}
+
+nav ul{
+    float: right;
+    list-style-type: none;
+    margin-right: 140px ;
+}
+
+ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+li a{
+
+    
+    text-decoration: none;
+    cursor: pointer;
+    font-family: 'Proxima Nova', sans-serif;
+}
+
+
+.label-centro{
+    margin-left: 5%;
+}
+
+.btnregistrarse{
+    background-color: #3AA4F6;
+    border-radius: 20px;
+    margin-right: 15px;
+    width: 110px;
+}
+
+.btnlogin{
+   
+    border-radius: 20px;
+    border: 2px solid #3AA4F6;
+    width: 110px;
+}
+
+
+.labelregistrarse{
+    color: white;
+    padding-left: 15px;
+}
+
+.labellogin{
+    padding-left: 5px;
+}
